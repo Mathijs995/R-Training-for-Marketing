@@ -7,8 +7,8 @@ Welcome to the Github repository for R training for marketing workshop organised
 - [R Training for Marketing - Session 2](https://github.com/Mathijs995/R-Training-for-Marketing/raw/master/R%20Training%20for%20Marketing%20-%20Part%202:%20Session%202%20Instructions.pdf)
 - [R Training for Marketing - Session 2](https://github.com/Mathijs995/R-Training-for-Marketing/raw/master/R%20Training%20for%20Marketing%20-%20Part%203:%20Session%203%20Instructions.pdf)
 
-## I found a mistake or something is not clear, what do I do?
-Please file an issue or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com). You would greatly help out with improving the workshop.
+## Mistakes or Inconsistencies
+Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/R-Training-for-Marketing/issues) here on GitHub or [send me an email](mailto:mathijsdejong1995@gmail.com).
 
-## License
-This content is licensed under an MIT license, meaning you can use it for your own workshops. If you do, I would like to hear your feedback and share knowledge, so feel free to contact me at [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com).
+## Copyright and License
+Copyright 2018 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license, which means you can use this content for any purpose, even for commercial projects.
